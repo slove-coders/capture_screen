@@ -7,7 +7,7 @@ A screenshot, also known as a screen capture or screengrab, is an image that cap
 ## 👤 Developer Information
 
 - **Developer**：石锋(Shi Feng)
-- **Completion Date**：2025年5月14日
+- **Develop Date**：2025年5月14日
 
 
 
